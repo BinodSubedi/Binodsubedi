@@ -1,6 +1,3 @@
-<!DOCTYPE html>
-<html>
-<body style="background-color: #ffffff">
 
 ### Hello there 👋
 
@@ -27,18 +24,12 @@ Here are some ideas to get you started:
 
 
 <div style="display: inline_block"><br>
-  <img align="center" alt="rust" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rust/rust-plain.svg">
+  <img align="center" alt="rust" height="30" width="40" src="https://www.pngitem.com/pimgs/m/346-3468947_images-rust-lang-ar21-rust-programming-language-logo.png">
   <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg">
   <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Rafa-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
  
 </div>
-
-
-
-</body>
-
-</html>
 
 
 
