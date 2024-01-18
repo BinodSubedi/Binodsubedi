@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 - 🔭 I’m currently working on Hadron [A relatively complex project in rust]
-- 🌱 I’m currently learning everyday to master Rust [Probably completing one another complex project will be enough]
+- 🌱 I’m currently learning everyday to get prettyyy good with Rust [Probably completing one another complex project will be enough]
 - 💬 Ask me about anything [Probably related to programming]
 - 📫 How to reach me: binodsubedi125@gmail.com
 
