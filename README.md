@@ -1,7 +1,7 @@
 
 ### Hello there 👋
 
-## Love coding in rust and go [In the exact same order]
+## Like coding in low level languages, planning to go all in with C (Just love the simplicity)
 
 <!--
 **Binodsubedi/Binodsubedi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -17,8 +17,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-- 🔭 I’m currently working on Hadron [A relatively complex project in rust]
-- 🌱 I’m currently learning everyday to get prettyyy good with Rust [Probably completing one another complex project will be enough]
+- 🔭 I’m currently working on Elementary Compiler [Just trying to initially transpile to C and may be go into Arm and RiscV assembly, just a hobby project]
+- 🌱 I’m currently learning to do low level stuff, embedded and other system level programming
 - 💬 Ask me about anything [Probably related to programming]
 - 📫 How to reach me: binodsubedi125@gmail.com
 
