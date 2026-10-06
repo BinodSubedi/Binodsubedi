@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 -->
 - 🔭 I’m currently working on Elementary Compiler [Just trying to initially transpile to C and may be go into Arm and RiscV assembly, just a hobby project]
 - 🌱 I’m currently learning to do low level stuff, embedded and other system level programming
-- 💬 Ask me about anything [Probably related to programming]
+- 💬 Ask me about anything [Probably related to hardware or programming]
 - 📫 How to reach me: binodsubedi125@gmail.com
 
 
